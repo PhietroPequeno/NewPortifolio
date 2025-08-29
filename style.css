@@ -1,0 +1,18 @@
+
+.bg-custom{
+  color: blanchedalmond;
+  
+}
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: rgb(255, 250, 241);
+}
+
+h1, h2 {
+  font-weight: bold;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
